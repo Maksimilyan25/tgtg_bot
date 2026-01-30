@@ -39,3 +39,13 @@ venv/
 *.swo 
 
 src/Authorization.txt
+
+# Build artifacts
+build/
+dist/
+releases/
+*.spec
+nodejs_portable/
+*.zip
+FreeQwenApi_Release/
+FreeQwenApi_Release.zip
